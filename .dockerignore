@@ -7,4 +7,5 @@ obj/
 *.suo
 *.swp
 *.tmp
+Dockerfile*
 README*
