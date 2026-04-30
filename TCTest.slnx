@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AudiSDK/AudiSDK.csproj" />
+  <Project Path="TCTest.csproj" />
+</Solution>
